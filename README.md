@@ -1,1 +1,1 @@
-TBD
+Hummingbot for ETERBASE Exchange
